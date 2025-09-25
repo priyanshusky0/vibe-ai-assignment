@@ -1,8 +1,8 @@
 Assignment
 
 # Project Overview
-This repository contains my completed assignment for **Vibe AI Services** as part of their selection process.  
-The app demonstrates my skills in **Flutter development, reusable widget design, UI/UX optimization**, and **code scalability**.
+This repository contains my completed assignment for Vibe AI Services as part of their selection process.  
+The app demonstrates my skills in Flutter development, reusable widget design, UI/UX optimization, and code scalability.
 
 The primary objective of this assignment was to develop a clean, reusable, and responsive app, ensuring ease of maintenance and extension.
 
@@ -15,7 +15,7 @@ Features
 
 ---
 
-## Screenshots
+# Screenshots
 
 ![Screen 1 ](final.png)
 
