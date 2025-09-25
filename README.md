@@ -17,10 +17,10 @@ Features
 
 ## Screenshots
 
-![Screen 1 ](Screen_1.png)
-![Screen 1](Screen_1.1.png)
-![Screen 2 ](Screen_2.png)
-![Screen 2](Screen_2.1.png)
+![Screen 1 ](screen_1.png)
+![Screen 1](screen_1.1.png)
+![Screen 2 ](screen_2.png)
+![Screen 2](screen_2.1.png)
 
 
 
