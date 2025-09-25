@@ -1,16 +1,27 @@
-# assignment
+Assignment
 
-A new Flutter project.
+# Project Overview
+This repository contains my completed assignment for **Vibe AI Services** as part of their selection process.  
+The app demonstrates my skills in **Flutter development, reusable widget design, UI/UX optimization**, and **code scalability**.
 
-## Getting Started
+The primary objective of this assignment was to develop a clean, reusable, and responsive app, ensuring ease of maintenance and extension.
 
-This project is a starting point for a Flutter application.
+Features
 
-A few resources to get you started if this is your first Flutter project:
+- Reusable Widgets: Components like StatsCard and FamilyMembers are designed for reuse across multiple screens, ensuring **optimized performance and consistent UI.
+- Clean UI: Simple, modern, and responsive design following best practices.
+- Scalable Architecture: Easy to add new features or screens without major refactoring.
+- App Optimization: Lightweight widgets and proper layout structure to ensure smooth performance.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshots
+
+
+
+
+How to Run
+
+1. Clone the repository
+```bash
+git clone https://github.com/priyanshusky0/vibe-ai-assignment.git
