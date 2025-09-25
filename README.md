@@ -8,7 +8,7 @@ The primary objective of this assignment was to develop a clean, reusable, and r
 
 Features
 
-- Reusable Widgets: Components like StatsCard and FamilyMembers are designed for reuse across multiple screens, ensuring **optimized performance and consistent UI.
+- Reusable Widgets: Components like StatsCard and FamilyMembers are designed for reuse across multiple screens, ensuring optimized performance and consistent UI.
 - Clean UI: Simple, modern, and responsive design following best practices.
 - Scalable Architecture: Easy to add new features or screens without major refactoring.
 - App Optimization: Lightweight widgets and proper layout structure to ensure smooth performance.
